@@ -13,7 +13,7 @@
 Hi, I'm Ferouk Bouazza, a Full-Stack developer. Professional problem solver. Internet practitioner. Amateur coffee enthusiast 👨‍💻🚀
 
 
-- 🌱 I’m currently work at [Swile](https://swile.co)
+- 🌱 I’m currently working at [Swile](https://swile.co)
 - 💬 Ask me about anything [here](https://github.com/ferouk/ferouk/issues)
 
 **Languages and Tools:**
