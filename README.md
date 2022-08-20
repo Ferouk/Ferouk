@@ -1,10 +1,10 @@
 ### Hi there, I'm [Ferouk](https://www.linkedin.com/in/ferouk/) ! 👋
 
 <a href="https://twitter.com/bouazzaferouk">
-  <img align="left" alt="Ferouk Bouazza | Twitter" width="32px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/twitter.svg" />
+  <img align="left" alt="Ferouk Bouazza | Twitter" height="32px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ferouk/">
-  <img align="left" alt="Ferouk's LinkedIn" width="32px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/linkedin.svg" />
+  <img align="left" alt="Ferouk's LinkedIn" height="32px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/linkedin.svg" />
 </a>
 
 <br />
@@ -13,15 +13,48 @@
 Hi, I'm Ferouk Bouazza, a Full-Stack developer. Professional problem solver. Internet practitioner. Amateur coffee enthusiast 👨‍💻🚀
 
 
-- 🌱 I’m currently working at [Swile](https://swile.co)
+- 🌱 I’m currently working at [<img alt="Swile" width="16px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/swile.svg" /> Swile](https://swile.co)
 - 💬 Ask me about anything [here](https://github.com/ferouk/ferouk/issues)
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<a href="#">
+<img align="left" width="21px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/javascript.svg">
+</a>
+<a href="#">
+<img align="left" width="21px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/typescript.svg">
+</a>
+<a href="#">
+<img align="left" width="21px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/nodejs.svg">
+</a>
+<a href="#">
+<img align="left" width="21px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/react.svg">
+</a>
+<a href="#">
+<img align="left" height="21px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/vite.svg">
+</a>
+<a href="#">
+<img align="left" height="21px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/python.svg">
+</a>
+<a href="#">
+<img align="left" height="21px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/html5.svg">
+</a>
+<a href="#">
+<img align="left" height="21px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/css3.svg">
+</a>
+<a href="#">
+<img align="left" height="21px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/sass.svg">
+</a>
+<a href="#">
+<img align="left" height="21px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/less.svg">
+</a>
+<br />
+<a href="#">
+<img align="left" height="21px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/vscode.svg">
+</a>
 
-**My GitHub Stats**
+<br />
+<br />
 
 <p aligh="left">
   <a href="http://www.github.com/ferouk"><img src="https://github-readme-stats.vercel.app/api?username=ferouk&show_icons=true&hide=&count_private=true&title_color=1f6feb&text_color=ffffff&icon_color=1f6feb&bg_color=0d1117&hide_border=true&show_icons=true" alt="Ferouk's GitHub stats" width="49%" /></a>
