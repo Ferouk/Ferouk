@@ -45,9 +45,6 @@ Hi, I'm Ferouk Bouazza, a Full-Stack developer. Professional problem solver. Int
 <a href="#">
 <img align="left" height="21px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/sass.svg">
 </a>
-<a href="#">
-<img align="left" height="21px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/less.svg">
-</a>
 <br />
 <a href="#">
 <img align="left" height="21px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/vscode.svg">
