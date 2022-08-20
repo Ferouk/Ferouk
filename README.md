@@ -1,10 +1,10 @@
 ### Hi there, I'm [Ferouk](https://www.linkedin.com/in/ferouk/) ! 👋
 
 <a href="https://twitter.com/bouazzaferouk">
-  <img align="left" alt="Ferouk Bouazza | Twitter" width="21px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/twitter.svg" />
+  <img align="left" alt="Ferouk Bouazza | Twitter" width="32px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ferouk/">
-  <img align="left" alt="Ferouk's LinkedIn" width="21px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/linkedin.svg" />
+  <img align="left" alt="Ferouk's LinkedIn" width="32px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/linkedin.svg" />
 </a>
 
 <br />
