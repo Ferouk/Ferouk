@@ -54,6 +54,6 @@ Hi, I'm Ferouk Bouazza, a Full-Stack developer. Professional problem solver. Int
 <br />
 
 <p aligh="left">
-  <a href="http://www.github.com/ferouk"><img src="https://github-readme-stats.vercel.app/api?username=ferouk&show_icons=true&hide=&count_private=true&title_color=1f6feb&text_color=ffffff&icon_color=1f6feb&bg_color=0d1117&hide_border=true&show_icons=true" alt="Ferouk's GitHub stats" width="49%" /></a>
-  <a href="http://www.github.com/ferouk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ferouk&stroke=ffffff&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakNum=ffffff&currStreakLabel=1f6feb&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="49%" /></a>
+  <a href="http://www.github.com/ferouk"><img src="https://github-readme-stats.vercel.app/api?username=ferouk&show_icons=true&count_private=true&title_color=1f6feb&text_color=ffffff&icon_color=1f6feb&bg_color=0d1117&hide_border=true" alt="Ferouk's GitHub stats" width="49%" /></a>
+  <a href="http://www.github.com/ferouk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ferouk&stroke=ffffff&background=0d1117&ring=1f6feb&fire=d35400&currStreakNum=ffffff&currStreakLabel=1f6feb&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="49%" /></a>
 </p>
