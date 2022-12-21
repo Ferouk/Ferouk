@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Ferouk Bouazza, A fullstack web developer 💻 by day, superhero coder 🦸‍♂️ by night. When I'm not busy saving the world (or at least, the internet 🌐) from buggy code 🐛 and evil hackers 🕵️‍♂️, you can find me nerding out 🤓 over the latest tech trends and sipping on a steaming hot cup of coffee ☕ (or five 🤪). Proficient in JavaScript, Typescript, and Python 🐍, I am a fierce proponent of clean, efficient, and user-friendly code 🛠. Just don't ask me to fix your printer 🖨️ - that's a job for a different kind of hero.
+Hi, I'm Ferouk, A fullstack web developer 💻 by day, superhero coder 🦸‍♂️ by night. When I'm not busy saving the world (or at least, the internet 🌐) from buggy code 🐛 and evil hackers 🕵️‍♂️, you can find me nerding out 🤓 over the latest tech trends and sipping on a steaming hot cup of coffee ☕ (or five 🤪). Proficient in JavaScript, Typescript, and Python 🐍, I am a fierce proponent of clean, efficient, and user-friendly code 🛠. Just don't ask me to fix your printer 🖨️ - that's a job for a different kind of hero.
 
 
 - 🌱 I’m currently working at [<img alt="Swile" width="16px" src="https://raw.githubusercontent.com/ferouk/ferouk/master/assets/swile.svg" /> Swile](https://swile.co)
